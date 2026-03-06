@@ -118,6 +118,12 @@ Wer diese Faktoren im Blick behält, kann Wasserprobleme langfristig vermeiden.
 
 ---
 
+## Weitere passende Guides
+
+- [Biofilm im Whirlpool](biofilm-im-whirlpool.md)
+- [Whirlpool riecht muffig](whirlpool-riecht-muffig.md)
+- [pH Wert im Whirlpool](whirlpool-ph-wert.md)
+
 Weitere Informationen zur Whirlpool Wasserpflege:
 
 https://racoonworks.de
