@@ -121,6 +121,12 @@ Mit stabilen Wasserwerten, regelmäßiger Reinigung und einer funktionierenden F
 
 ---
 
+## Weitere passende Guides
+
+- [Biofilm im Whirlpool](biofilm-im-whirlpool.md)
+- [Whirlpool Wasser trüb](whirlpool-wasser-trueb.md)
+- [pH Wert im Whirlpool](whirlpool-ph-wert.md)
+
 Weitere Informationen zur Whirlpool Wasserpflege:
 
 https://racoonworks.de
