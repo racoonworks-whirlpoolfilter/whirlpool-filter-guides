@@ -51,6 +51,12 @@ Je weniger organische Stoffe im Wasserkreislauf verbleiben, desto geringer ist d
 
 ---
 
+## Weitere passende Guides
+
+- [Whirlpool Wasser trüb](whirlpool-wasser-trueb.md)
+- [Whirlpool riecht muffig](whirlpool-riecht-muffig.md)
+- [pH Wert im Whirlpool](whirlpool-ph-wert.md)
+
 Weitere Informationen zur Whirlpool Wasserpflege:
 
 https://racoonworks.de
